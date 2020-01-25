@@ -4,6 +4,12 @@
 
 *This project is a product of a mentorship program done by WooTech Orgnanization*
 
+
+Mentees : **Ayush Agarwal, Zhilin Huang, Ankita Jain, Kamalpreet Kaur**
+
+Mentor : **Mohamed Ayoob Nazeem**
+
+
 ## Abstract 
 
 The NASA Sloan Atlas contains Images and parametric features of local galaxies. It has a curated catalogue of nearly 150 000 thousand images. The aim of this project would be to get statistical insights on certain aspects of the data as specified by the mentor. The mentees will also be able to learn fundamental aspects of machine learning and Data Science as a capstone of this project. This project will undertake on classifying galaxies and parametric values from them to learn additional insights and patterns on variations and interpolations between features.   
@@ -12,10 +18,6 @@ The NASA Sloan Atlas contains Images and parametric features of local galaxies. 
 
 Women Classifying stars is not nothing this world hasn't seen before, it was pioneered by Edward Pickering. Edward Pickering was a scientist at Harvard University. To much of the ridicule and derision of his colleagues, he left a team of women in charge of cataloguing the stars. These amazing women not only listed and logged the star catalogues but went on to publish papers and invent a system of star classification that is still the basis of today's star classification frameworks.  These women were able to achieve such feats in astronomy due to their perseverance, grit and brilliance. The “Harvard Computers” were among the more decent nicknames they got. The most notable among these women are Annie Jump Cannon and Williamina Fleming.
 
-
-Mentees : **Ayush Agarwal, Zhilin Huang, Ankita Jain, Kamalpreet Kaur**
-
-Mentor : **Mohamed Ayoob Nazeem**
 
 ## Schedule
 
