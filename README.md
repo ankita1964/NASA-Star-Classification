@@ -5,7 +5,7 @@
 *This project is a product of a mentorship program done by WooTech Orgnanization*
 
 
-Mentees : **Ayush Agarwal, Zhilin Huang, Ankita Jain, Kamalpreet Kaur**
+Mentees : **Ankita Jain, Ayushi Agarwal, Kamalpreet Kaur, Zhilin Huang**
 
 Mentor : **Mohamed Ayoob Nazeem**
 
