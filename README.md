@@ -23,7 +23,7 @@ Women Classifying stars is not nothing this world hasn't seen before, it was pio
 
 ### Week 1 
 Explore the Data and do some EDA (Exploratory Data Analysis) on it. Particularly  we have since we have a lot of variables in play and Astronomy is a new science for most programmers 
-### Week 2
+### Week 2j
 Querying relevant data + Feature engineering  + Data pre-processing - **Pull Request**
 ### Week 3
 Implement Machine Learning models - based on the above 3 different approaches. (Machine Learning , Statistical , Deep Neural Networks) - 
